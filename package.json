@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ldecarvalho.lwc-l3yxgidq-fork-l3yy1v22",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve jRkAPCVhrKEpYUALEWD7 --open"
+  }
+}
